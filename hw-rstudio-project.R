@@ -1,3 +1,5 @@
+install.packages(c("magrittr", "ggplot2", "httr", "dplyr"))
+
 library(magrittr); library(ggplot2)
 
 source("R/utils.R")
